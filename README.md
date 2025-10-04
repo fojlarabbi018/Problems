@@ -1,6 +1,7 @@
 
 ## Binary Search
 - [Kth-Sum](https://codeforces.com/edu/course/2/lesson/6/5/practice/contest/285084/problem/C)
+- [Chat Ban](https://codeforces.com/contest/1612/problem/C)
 
 ## Just Fix it
 - [Sum of Two Values](https://codeforces.com/problemset/gymProblem/102961/G)
