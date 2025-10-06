@@ -6,3 +6,6 @@
 ## Just Fix it
 - [Sum of Two Values](https://codeforces.com/problemset/gymProblem/102961/G)
 - [ Subarray Divisibility](https://codeforces.com/problemset/gymProblem/102961/ZC)
+
+## Random
+- [Catching the Krug](https://codeforces.com/contest/2152/problem/B)
