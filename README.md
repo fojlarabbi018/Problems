@@ -14,5 +14,9 @@
 
 ## Substring Problem
 - [Monocarp's String](https://codeforces.com/problemset/problem/2145/C)
+
+## Difference Array
+- [Greg and Array](https://codeforces.com/contest/295/problem/A)
+
 ## Random
 - [Catching the Krug](https://codeforces.com/contest/2152/problem/B)
