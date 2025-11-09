@@ -12,5 +12,7 @@
 - [Sum of Two Values](https://codeforces.com/problemset/gymProblem/102961/G)
 - [ Subarray Divisibility](https://codeforces.com/problemset/gymProblem/102961/ZC)
 
+## Substring Problem
+- [Monocarp's String](https://codeforces.com/problemset/problem/2145/C)
 ## Random
 - [Catching the Krug](https://codeforces.com/contest/2152/problem/B)
