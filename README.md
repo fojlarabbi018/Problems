@@ -5,8 +5,14 @@
 - [No Cost Too Great (Easy Version)](https://codeforces.com/contest/2154/problem/C1)
 
 ## Binary Search
-- [Kth-Sum](https://codeforces.com/edu/course/2/lesson/6/5/practice/contest/285084/problem/C)
-- [Chat Ban](https://codeforces.com/contest/1612/problem/C)
+
+<details>
+<summary>**Problems**</summary>
+
+- [K-th Sum](https://codeforces.com/problemset/problem/XXXX)
+- [Chat Ban](https://codeforces.com/problemset/problem/YYYY)
+
+</details>
 
 ## Just Fix it
 - [Sum of Two Values](https://codeforces.com/problemset/gymProblem/102961/G)
