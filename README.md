@@ -25,7 +25,7 @@
 ## Binary Search
 
 <details>
-<summary>Click to expand problems</summary>
+<summary>Problems</summary>
 
 - [K-th Sum](https://codeforces.com/problemset/problem/XXXX)
 - [Chat Ban](https://codeforces.com/problemset/problem/YYYY)
