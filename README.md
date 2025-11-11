@@ -17,6 +17,7 @@
 
 ## Difference Array
 - [Greg and Array](https://codeforces.com/contest/295/problem/A)
+- [Karen and Coffee](https://codeforces.com/contest/816/problem/B)
 
 ## Random
 - [Catching the Krug](https://codeforces.com/contest/2152/problem/B)
