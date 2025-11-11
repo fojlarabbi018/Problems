@@ -39,6 +39,7 @@
 
 - [Greg and Array](https://codeforces.com/contest/295/problem/A)
 - [Karen and Coffee](https://codeforces.com/contest/816/problem/B)
+- [Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C)
 
 </details>
 
