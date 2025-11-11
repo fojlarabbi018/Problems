@@ -21,3 +21,13 @@
 
 ## Random
 - [Catching the Krug](https://codeforces.com/contest/2152/problem/B)
+
+## Binary Search
+
+<details>
+<summary>Click to expand problems</summary>
+
+- [K-th Sum](https://codeforces.com/problemset/problem/XXXX)
+- [Chat Ban](https://codeforces.com/problemset/problem/YYYY)
+
+</details>
