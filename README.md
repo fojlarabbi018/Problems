@@ -64,14 +64,3 @@
 </details>
 
 
-## Just Fix it
-
-<details>
-<summary>Problems</summary>
-
-- [Sum of Two Values](https://codeforces.com/problemset/gymProblem/102961/G)
-- [ Subarray Divisibility](https://codeforces.com/problemset/gymProblem/102961/ZC)
-
-</details>
-
-
