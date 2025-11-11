@@ -12,7 +12,7 @@
 - [Sum of Two Values](https://codeforces.com/problemset/gymProblem/102961/G)
 - [ Subarray Divisibility](https://codeforces.com/problemset/gymProblem/102961/ZC)
 
-## Substring Problem
+## Two Pointers
 - [Monocarp's String](https://codeforces.com/problemset/problem/2145/C)
 
 ## Difference Array
