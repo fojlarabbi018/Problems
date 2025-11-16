@@ -16,6 +16,7 @@
 <summary>Problems</summary>
 
 - [Modulo](https://vjudge.net/problem/Toph-modulo)
+- [Geometric Progression](https://vjudge.net/problem/AtCoder-abc293_e)
 
 </details>
 
