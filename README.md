@@ -10,7 +10,7 @@
 
 </details>
 
-## Modulo and Binary Exponential
+## Modulo and Binary Exponentiation
 
 <details>
 <summary>Problems</summary>
