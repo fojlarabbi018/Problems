@@ -15,7 +15,7 @@
 <details>
 <summary>Problems</summary>
 
-- [Modulo](https://toph.co/p/modulo)
+- [Modulo](https://vjudge.net/problem/Toph-modulo)
 
 </details>
 
