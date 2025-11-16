@@ -10,6 +10,17 @@
 
 </details>
 
+## Modulo and Binary Exponential
+
+<details>
+<summary>Problems</summary>
+
+- [K-th Sum](https://codeforces.com/problemset/problem/XXXX)
+- [Chat Ban](https://codeforces.com/problemset/problem/YYYY)
+- [Modulo](https://toph.co/p/modulo)
+
+</details>
+
 
 ## Binary Search
 
