@@ -20,6 +20,15 @@
 
 </details>
 
+## Bitmask
+
+<details>
+<summary>Problems</summary>
+
+- [Preparing Olympiad](https://codeforces.com/contest/550/problem/B)
+
+</details>
+
 
 ## Binary Search
 
