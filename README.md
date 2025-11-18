@@ -26,6 +26,7 @@
 <summary>Problems</summary>
 
 - [Preparing Olympiad](https://codeforces.com/contest/550/problem/B)
+- [Little Girl and Maximum XOR](https://codeforces.com/contest/276/problem/D)
 
 </details>
 
